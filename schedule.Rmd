@@ -1,0 +1,14 @@
+---
+title: "nwa-data-science-schedule"
+output: html_document
+---
+
+## Upcoming events 
+
+No. | Date | Time | Location | Speakers | Topics
+--- | ---- | ---- | -------- | -------- | ------
+[001](events/01.20.2016/nwadatascience-flyer-january-16.pdf) | 01.20.2016 | 7pm - 9pm | Lofty Labs | Jim Scott; Mark Conway | NoSQL Technologies; Sports Predictions
+
+----------
+
+## Previous Events
