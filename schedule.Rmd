@@ -7,7 +7,7 @@ output: html_document
 
 No. | Date | Time | Location | Speakers | Topics
 --- | ---- | ---- | -------- | -------- | ------
-[001](events/01.20.2016/nwadatascience-flyer-january-16.pdf) | 01.20.2016 | 7pm - 9pm | Lofty Labs | Jim Scott; Mark Conway | NoSQL Technologies; Sports Predictions
+[001](events/01.20.2016/nwadatascience-flyer-january-16.pdf) | 01.20.2016 | 7pm - 9pm | Lofty Labs |  Mark Conway | Sports Predictions
 
 ----------
 
