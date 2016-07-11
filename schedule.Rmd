@@ -5,10 +5,7 @@ output: html_document
 
 ## Upcoming events 
 
-No. | Date | Time | Location | Speakers | Topics
---- | ---- | ---- | -------- | -------- | ------
-[001](events/01.20.2016/nwadatascience-flyer-january-16.pdf) | 01.20.2016 | 7pm - 9pm | Lofty Labs |  Mark Conway | Sports Predictions
+Dr. Michael Gashler will be giving a talk entitled: **Neural Networks: Time Series Prediction and Robot Control**. July 26th, 7pm at Loft Labs in Fayetteville, AR. 
 
-----------
-
-## Previous Events
+Abstract: 
+Neural networks can be surprisingly flexible models. For example, it is well known that artificial neural networks can be differentiated to compute a gradient useful for updating their weights, but it is somewhat lesser known that they can also be differentiated with respect to their inputs. This property enables one to infer latent inputs that are useful in a variety of non-traditional roles, such as non-linear dimensionality reduction, missing value imputation, and collaborative filtering recommender systems. This talk will discuss latent inputs and some other techniques that can be used for making neural networks suitable for applications like time series prediction and robot control. 
