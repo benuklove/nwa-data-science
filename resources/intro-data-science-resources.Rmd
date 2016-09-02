@@ -1,0 +1,44 @@
+---
+title: "data-science-resources"
+author: "NWA Data Science"
+date: "September 2, 2016"
+output: html_document
+---
+
+
+# Online Learning
+------------------------------------------
+* https://www.coursera.org/
+* https://www.edx.org/
+* https://www.udacity.com/
+* https://www.codecademy.com/
+
+# IDEs
+------------------------------------------
+* https://www.rstudio.com/
+* https://www.jetbrains.com/pycharm/
+
+# Data Sets
+------------------------------------------
+* http://archive.ics.uci.edu/ml/
+* http://rs.io/100-interesting-data-sets-for-statistics/
+* http://www.kdnuggets.com/datasets/index.html
+
+# Competitions
+------------------------------------------
+* https://www.kaggle.com/
+
+# Version Control
+------------------------------------------
+* https://github.com/
+* https://about.gitlab.com/
+* https://www.atlassian.com/software/bitbucket
+
+# Question and Answer Sites
+------------------------------------------
+* http://datascience.stackexchange.com/
+* http://opendata.stackexchange.com/
+* http://stackoverflow.com/
+* http://stats.stackexchange.com/
+* https://www.quora.com/
+* https://www.reddit.com/
